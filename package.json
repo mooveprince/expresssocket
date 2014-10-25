@@ -1,0 +1,9 @@
+{
+  "name": "expressscoket",
+  "description": "Sample to Learn",
+  "author": "Well, dnt know",
+  "dependencies": {
+    "express": "^4.10.0",
+    "socket.io": "^1.1.0"
+  }
+}
